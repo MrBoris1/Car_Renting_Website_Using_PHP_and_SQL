@@ -1,7 +1,3 @@
 Source codes are at -> mysql file 
 
-record is not demanded but we put it for demonstrativeness
-
 ABI CAR RENT is DATABASE DUMP (SQL EXPORT)
-
-ISE 305 ABI Rent a CAR <-- Project report
